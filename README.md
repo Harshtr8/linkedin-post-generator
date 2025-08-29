@@ -1,12 +1,12 @@
 # LinkedIn Post Generator
 
-This project is part of the **Internship Assignment (Aug 2025)**.  
+This project is part of the **Internship Assignment**.  
 It is a **Streamlit-based web app** that generates **LinkedIn post drafts** using **Google’s Gemini 2.5 Pro model**.
 
 ---
 
 ## Features
-- Generate 3+ LinkedIn posts from a given topic
+- Generate 5+ LinkedIn posts from a given topic
 - Select tone (Professional, Casual, Inspirational, Analytical, etc.)
 - Define a target audience (e.g., HR leaders, Founders, Students)
 - Add hashtags (optional, deduped & relevant)
@@ -70,25 +70,15 @@ The app will open at:
 
 ---
 
-## Deployment
-
-The app can be deployed for free using:
-- [Streamlit Cloud](https://streamlit.io/cloud)  
-- [Hugging Face Spaces](https://huggingface.co/spaces)  
-- [Render](https://render.com/)  
-- [Vercel](https://vercel.com/)  
-
 ### Deployment Notes:
 - Add `GEMINI_API_KEY` and `BASE_URL` in **project settings → environment variables**  
 - Ensure `requirements.txt` is installed automatically by the host  
-- Health check: `/` should return 200 OK  
-
 ---
 
 ## Deliverables
-- Live app link: [https://smart-assistant.streamlit.app](https://smart-assistant.streamlit.app)  
-- GitHub repo link: *(to be added)*  
-- Demo video (≤10 min) showing features  
+- Live app link: [https://linkedin-postgenerator.streamlit.app/](https://linkedin-postgenerator.streamlit.app/)  
+- GitHub repo link: (https://github.com/Harshtr8/linkedin-post-generator)  
+- Demo video:    
 
 ---
 
@@ -110,8 +100,3 @@ The app can be deployed for free using:
 - python-dotenv  
 
 ---
-
-## Next Steps
-1. Ensure GitHub repository is updated  
-2. Record short demo video (≤10 min)  
-3. Submit live app link, repo, and video as deliverables
