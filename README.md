@@ -7,7 +7,7 @@ It is a **Streamlit-based web app** that generates **LinkedIn post drafts** usin
 
 ## Live Demo
 - Live App URL: [https://linkedin-postgenerator.streamlit.app/](https://linkedin-postgenerator.streamlit.app/)  
-- Demo Video: *(to be added by you, ≤10 minutes, showing app usage)*  
+- Demo Video: [https://drive.google.com/file/d/1QdUdNgJaXl7FFK8qjs8yRRpKQJAQwlAo/view?usp=drive_link](https://drive.google.com/file/d/1QdUdNgJaXl7FFK8qjs8yRRpKQJAQwlAo/view?usp=drive_link)    
 
 ---
 
